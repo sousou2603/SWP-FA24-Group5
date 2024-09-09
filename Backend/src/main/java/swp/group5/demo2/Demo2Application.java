@@ -15,4 +15,9 @@ public class Demo2Application {
 	public void hi(){
 
 	}
+
+	@Override
+	public int hashCode() {
+		return super.hashCode();
+	}
 }
