@@ -12,4 +12,12 @@ public class Demo2Application {
 	public void byebye(){
 		System.out.println("bye");
 	}
+	public void hi(){
+
+	}
+
+	@Override
+	public int hashCode() {
+		return super.hashCode();
+	}
 }
