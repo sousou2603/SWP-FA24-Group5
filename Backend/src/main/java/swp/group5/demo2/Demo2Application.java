@@ -15,14 +15,14 @@ public class Demo2Application {
 	public void hi(){
 
 	}
-<<<<<<< HEAD
+
 	public void pray(){
 		System.out.println("god bless us");
-=======
+
 
 	@Override
 	public int hashCode() {
 		return super.hashCode();
->>>>>>> main
+
 	}
 }
