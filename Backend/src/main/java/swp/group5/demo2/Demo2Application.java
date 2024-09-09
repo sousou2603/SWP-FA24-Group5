@@ -12,7 +12,4 @@ public class Demo2Application {
 	public void byebye(){
 		System.out.println("bye");
 	}
-	public void hello(){
-		System.out.println("hi");
-	}
 }
