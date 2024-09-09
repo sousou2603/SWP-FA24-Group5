@@ -15,4 +15,7 @@ public class Demo2Application {
 	public void hi(){
 
 	}
+	public void pray(){
+		System.out.println("god bless us");
+	}
 }
